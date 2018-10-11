@@ -39,7 +39,7 @@ Workflow:
  - Download this CD32 theme package: https://github.com/steffest/amiga/archive/master.zip
  - Open Prefs/FullPalette and open the fullpalette.prefs file - save
  - Copy the file "Copper-Demon.prefs" to the location where you installed Copper Demon
- - Set the Background image and save (WBPattern in Prefs)
+ - Set the Workbench background image and save (WBPattern in Prefs)
  - Use IconCopy to change all icons - yes: by hand for now. the icon goes in the left box, the target you want to change in the right.
  - I used a simple striped pattern as windows pattern, you can set that using WBPattern in Prefs - totally optional of course.
 
