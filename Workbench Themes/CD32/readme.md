@@ -23,7 +23,7 @@ Color Locker and Border Blanker recommended!
 Workflow:
  - First made in Photoshop
  - color-reduced with (the super awesome) http://tool.anides.de/
- - cleaned up and re-dithered back in Photoshop
+ - cleaned up and re-dithered by hand back in Photoshop
  - icons cut out and saved with Personal Paint on the Amiga as ColorIcons.
 
  - - - - - - -
