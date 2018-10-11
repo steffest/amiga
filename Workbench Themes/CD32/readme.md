@@ -5,7 +5,7 @@ Custom made Amiga Workbench Theme for the CD32
 ![CD32 Skin preview 2](./preview2.png?raw=true)
 
 16 colors
-(and Copper Deamon for the window gradients)
+(and Copper Demon for the window gradients)
 
 This is the palette:
 
