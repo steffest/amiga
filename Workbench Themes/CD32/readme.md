@@ -11,14 +11,14 @@ This is the palette:
 
 ![CD32 Skin preview 1](./palette.png?raw=true)
 
-The font is XEN (from MUI)
+The font is XEN (from MUI, you can extract that from http://aminet.net/package/util/wb/MagicWB21p)
 The icons are saved as ColorIcons
 (I'm not really sure how you view those on 3.1, but if you use BetterWb, you can use them)
 
 Although it's possible to run this in a 16 color WorkBench, it's recommended to use at least a 32 color screenmode.
 That way you can also set the MUI colors and have some pens left for other programs.
 
-Color Locker and Border Blanker recommended!
+Color Pattern Locker and Border Blanker recommended!
 
 Workflow:
  - First made in Photoshop
@@ -43,6 +43,15 @@ Workflow:
  - Set the Workbench background image and save (WBPattern in Prefs)
  - Use IconCopy to change all icons - yes: by hand for now. the icon goes in the left box, the target you want to change in the right.
  - I used a simple striped pattern as windows pattern, you can set that using WBPattern in Prefs - totally optional of course.
+ - You can remove the border of the icons through
+   - prefs/Workbench
+   - In the "Icons" section on the right set the option "Border Size" to "No Border"
+ - You can make the labels below the icons transparent through
+   - prefs/Font
+   - -> Select Workbench Icon Text
+   - -> set "Mode" to "Text" (instead of Text+Field)
+
+
 
 
 
