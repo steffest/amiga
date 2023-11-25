@@ -44,8 +44,12 @@ Workflow:
  - Use IconCopy to change all icons - yes: by hand for now. the icon goes in the left box, the target you want to change in the right.
  - I used a simple striped pattern as windows pattern, you can set that using WBPattern in Prefs - totally optional of course.
  - You can remove the border of the icons through
-   - prefs/Workbench
-   - In the "Icons" section on the right set the option "Border Size" to "No Border"
+   - When running OS3.1.4 or higher  
+     - prefs/Workbench
+     - In the "Icons" section on the right set the option "Border Size" to "No Border"
+   - When running OS3.1
+     - If you want to just remove the border, you can use the "DontShowIBorder" commodity
+     - If you also want to remove the icon background, the only way I know is by installing the newIcons patch. (This comes with a rather heavy performance penalty, though ...)
  - You can make the labels below the icons transparent through
    - prefs/Font
    - -> Select Workbench Icon Text
